@@ -1,7 +1,7 @@
 <html>
   <body>
    <?php
-    echo "Halo World";
+    echo "Halo Dunia";
     print "<br> Sedang Belajar PHP";
     ?>
 </body>
